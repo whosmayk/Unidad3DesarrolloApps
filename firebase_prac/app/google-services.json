@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800303251911",
+    "project_id": "hungaroring",
+    "storage_bucket": "hungaroring.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800303251911:android:764100c618456eb1abd9e2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_prac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAShE_cmpRceduRzsAqONx7Ciq-HNAmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
